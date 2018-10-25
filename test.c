@@ -1,2 +1,2 @@
-TEST
-EDIT
+This is a test.
+This is an edit. 
