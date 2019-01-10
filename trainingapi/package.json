@@ -1,0 +1,16 @@
+{
+  "name": "met-rfid",
+  "version": "1.0.0",
+  "description": "API to grab information on student and their training from their netID",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "restful",
+    "api"
+  ],
+  "author": "Mitchell Evans",
+  "license": "ISC"
+}
